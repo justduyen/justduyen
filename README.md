@@ -39,38 +39,35 @@
 
 <h2 align="left">💻 Tech Stack</h2>
 
-<p align="center">
-  <table style="border: none; width: 80%; max-width: 700px; border-collapse: collapse; background-color: #0d1117; border-radius: 10px; overflow: hidden; margin: 0 auto;">
-    <tr style="border: none;">
-      <td valign="top" style="width: 50%; padding: 25px; border-right: 1px solid #21262d; box-sizing: border-box;">
-        <h3 style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; font-size: 24px; color: #58a6ff; margin-top: 0; margin-bottom: 25px; text-align: center;">
-          👨🏻‍💻 <span style="font-weight: bold;">Programming Languages</span>
-        </h3>
-        <p style="margin-top: 0; text-align: center;">
-          <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-          <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-          <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-          <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-          <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="Powershell" src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
-          <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-        </p>
-      </td>
-      <td valign="top" style="width: 50%; padding: 25px; box-sizing: border-box;">
-        <h3 style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; font-size: 24px; color: #58a6ff; margin-top: 0; margin-bottom: 25px; text-align: center;">
-          🚀 <span style="font-weight: bold;">Some of the Tools I Use</span>
-        </h3>
-        <p style="margin-top: 0; text-align: center;">
-          <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-          <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-          <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-          <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-          <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=obsidian&logoColor=white" />
-          <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</p>
+<div align="center">
+  <div style="width: 80%; max-width: 700px; background-color: #0d1117; border-radius: 10px; padding: 25px; margin-bottom: 20px; box-sizing: border-box;">
+    <h3 style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; font-size: 24px; color: #58a6ff; margin-top: 0; margin-bottom: 25px; text-align: center;">
+      👨🏻‍💻 <span style="font-weight: bold;">Programming Languages</span>
+    </h3>
+    <p style="margin-top: 0; text-align: center;">
+      <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+      <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+      <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+      <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="Powershell" src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
+      <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+    </p>
+  </div>
+
+  <div style="width: 80%; max-width: 700px; background-color: #0d1117; border-radius: 10px; padding: 25px; box-sizing: border-box;">
+    <h3 style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; font-size: 24px; color: #58a6ff; margin-top: 0; margin-bottom: 25px; text-align: center;">
+      🚀 <span style="font-weight: bold;">Some of the Tools I Use</span>
+    </h3>
+    <p style="margin-top: 0; text-align: center;">
+      <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+      <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+      <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+      <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=obsidian&logoColor=white" />
+      <img style="margin: 5px; vertical-align: middle; height: 28px; border-radius: 5px;" alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
+    </p>
+  </div>
+</div>
 
 <div align="center">
   <picture>
