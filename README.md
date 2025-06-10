@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="center">Hello World, I'm Duyên 👋🏼</h1>
 
 ###
@@ -7,8 +5,6 @@
 <h2 align="left">💫 About Me:</h2>
 
 ###
-
-<br clear="both">
 
 <p align="left">
   - 👧🏻 Passionate about tech, learning, and building helpful products.<br>
@@ -18,8 +14,6 @@
 </p>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">💻 Tech Stack:</h2>
 
@@ -47,8 +41,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=cmduyen&theme=darkhub&no-bg=false&no-frame=true" height="130" alt="trophy graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=cmduyen&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true" height="130" alt="stats graph" />
@@ -56,8 +48,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cmduyen/justduyen/blob/output/github-snake-dark.svg" />
@@ -68,13 +58,9 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">📫 Connect with Me:</h2>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
