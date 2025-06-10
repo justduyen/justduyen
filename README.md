@@ -1,10 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=4493F8&width=435&lines=Hello+World%2C+I'm+Duyen%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" /></a>
 
-###
-
 <h2 align="left">💫 About Me</h2>
-
-###
 
 <p align="left">
   - 👧🏻 Passionate about tech, learning, and building helpful products.<br>
@@ -13,11 +9,35 @@
   - 📚 Tutoring & Writing since 2021.
 </p>
 
-###
+<!--START_SECTION:post-blog-->
+<details>
+    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
+    <!--NOTE:post-blog-->
+</details>
+<!--END_SECTION:post-blog-->
+
+<!--START_SECTION:activity-->
+<details>
+    <summary>&#128187 <b>GitHub Activities</b></summary><br/>
+    <!--NOTE:activity-->
+</details>
+<!--END_SECTION:activity-->
+
+<details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=cmduyen&theme=darkhub&no-bg=false&no-frame=true" height="130" alt="trophy graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cmduyen&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true" height="130" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cmduyen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="130" alt="languages graph" />
+</div>
+
+</details>
 
 <h2 align="left">💻 Tech Stack</h2>
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo" />
@@ -35,28 +55,13 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="25" alt="wordpress logo" />
 </div>
 
-###
-
-<h2 align="left">📊 My GitHub Stats</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=cmduyen&theme=darkhub&no-bg=false&no-frame=true" height="130" alt="trophy graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cmduyen/justduyen/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/cmduyen/justduyen/blob/output/ocean.gif" />
+    <img alt="github-snake" src="https://github.com/cmduyen/justduyen/blob/output/github-snake.svg" />
+  </picture>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cmduyen&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true" height="130" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cmduyen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="130" alt="languages graph" />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cmduyen/justduyen/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cmduyen/justduyen/blob/output/ocean.gif" />
-  <img alt="github-snake" src="https://github.com/cmduyen/justduyen/blob/output/github-snake.svg" />
-</picture>
 
 ## 🎧 Spotify Playing
 <p align="center">
@@ -80,11 +85,7 @@
   </a>
 </p>
 
-###
-
 <h2 align="left">📫 Connect with Me</h2>
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
@@ -99,5 +100,3 @@
   🌟 Thanks so much for visiting my profile! Hope you have a fantastic day! 👋<br>
   🛠️ Interested in making a page like this? Find out how here: [Your Guide Link Here] 🚀
 </p>
-
-###
