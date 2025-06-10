@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">💫 About Me:</h2>
+<h2 align="left">💫 About Me</h2>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">💻 Tech Stack:</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<h2 align="left">📊 My GitHub Stats:</h2>
+<h2 align="left">📊 My GitHub Stats</h2>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h2 align="left">📫 Connect with Me:</h2>
+<h2 align="left">📫 Connect with Me</h2>
 
 ###
 
