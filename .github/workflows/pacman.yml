@@ -24,6 +24,11 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }} # Lấy tên người dùng GitHub của bạn
 
+      # --- BƯỚC GỠ LỖI: HIỂN THỊ NỘI DUNG THƯ MỤC ---
+      - name: List files after generation
+        run: ls -R
+      # -----------------------------------------------
+
       - name: Create dist directory and move pacman.svg # Bước 3: Tạo thư mục 'dist' và di chuyển ảnh Pacman vào đó
         run: |
           mkdir -p dist/ # Tạo thư mục 'dist' nếu nó chưa tồn tại
