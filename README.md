@@ -122,4 +122,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/justduyen/justduyen/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<img src="https://raw.githubusercontent.com/justduyen/justduyen/output/dist/pacman-contribution-graph.svg" alt="Pacman animation" />
