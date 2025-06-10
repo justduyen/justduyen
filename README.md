@@ -123,7 +123,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l" target="_blank">
-    <img src="https://readme-spotify.warengonzaga.com/api/spotify" alt="Spotify Listening">
+    <img src="https://open.spotify.com/playlist/5YegG7hKbMoLgOC6cW7eS1?si=uwwFjgGASnmUdRkqmodGbQ" alt="Spotify Listening">
   </a>
 </p>
 
