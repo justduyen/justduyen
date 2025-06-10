@@ -39,6 +39,8 @@
 
 <h2 align="left">💻 Tech Stack</h2>
 
+<img width="100%" src="https://github.com/justduyen/justduyen/blob/main/skills.svg">
+
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo" />
