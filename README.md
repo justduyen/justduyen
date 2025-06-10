@@ -66,7 +66,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/cmduyen/cmduyen/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/cmduyen/justduyen/blob/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
 
