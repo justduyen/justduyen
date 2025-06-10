@@ -10,7 +10,7 @@
   - 👧🏻 Passionate about tech, learning, and building helpful products.<br>
   - ✨ Crafting my own webpage.<br>
   - 🌸 Studying AI & Automation.<br>
-  - 📚 Tutoring & writing since 2021.
+  - 📚 Tutoring & Writing since 2021.
 </p>
 
 ###
