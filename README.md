@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm Duyên 👋🏼</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=4493F8&width=435&lines=Hello+World%2C+I'm+Duyen%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" /></a>
 
 ###
 
