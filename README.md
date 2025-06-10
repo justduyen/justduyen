@@ -1,6 +1,4 @@
-<br clear="both">
-
-<h1 align="center">Hello World, I'm Duyên 👋🏼</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=4493F8&width=435&lines=Hello+World%2C+I'm+Duyen%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" /></a>
 
 ###
 
@@ -10,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">- 👧🏻 I'm passionate about all things tech, and I really enjoy learning and creating helpful little products for people.<br>- ✨ Currently crafting my own webpage<br>- 🌸 Studying AI & Automation<br>- 📚 Working as a tutoring and writing tutor since 2021</p>
+<p align="left">- 👧🏻 Tech enthusiast who loves building helpful products!<br>- ✨ Currently working on my webpage<br>- 🌸 Studying AI & Automation<br>- 📚 Working as a tutoring and writing tutor since 2021</p>
 
 ###
 
