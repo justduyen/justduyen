@@ -18,16 +18,25 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3 # Hoặc v4
+
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      # --- BƯỚC MỚI CẦN THÊM VÀO ĐÂY ---
+      - name: Create dist directory and move pacman.svg
+        run: |
+          mkdir -p dist/ # Tạo thư mục dist nếu chưa có
+          mv pacman-contribution-graph.svg dist/pacman-contribution-graph.svg
+      # -----------------------------------
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: dist # Lúc này thư mục dist đã có file pacman.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
