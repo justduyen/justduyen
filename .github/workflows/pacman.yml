@@ -1,0 +1,38 @@
+name: Generate Pacman animation
+
+on:
+  schedule: # Chạy định kỳ mỗi 12 giờ
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Cho phép chạy thủ công từ tab Actions
+  push:
+    branches:
+      - main # Chạy khi có push lên nhánh main
+
+jobs:
+  generate:
+    permissions:
+      contents: write # Cấp quyền ghi để workflow có thể tạo và đẩy file
+    runs-on: ubuntu-latest
+    timeout-minutes: 5 # Thời gian tối đa cho mỗi lần chạy
+
+    steps:
+      - name: Checkout repository # Bước 1: Kéo mã nguồn của repo về
+        uses: actions/checkout@v3 # Sử dụng phiên bản v3 hoặc v4 mới nhất
+
+      - name: Generate pacman-contribution-graph.svg # Bước 2: Tạo ảnh Pacman
+        uses: abozanona/pacman-contribution-graph@main # Sử dụng action tạo Pacman
+        with:
+          github_user_name: ${{ github.repository_owner }} # Lấy tên người dùng GitHub của bạn
+
+      - name: Create dist directory and move pacman.svg # Bước 3: Tạo thư mục 'dist' và di chuyển ảnh Pacman vào đó
+        run: |
+          mkdir -p dist/ # Tạo thư mục 'dist' nếu nó chưa tồn tại
+          mv pacman-contribution-graph.svg dist/pacman-contribution-graph.svg # Di chuyển file Pacman vào 'dist'
+
+      - name: Push pacman.svg to output branch # Bước 4: Đẩy ảnh Pacman từ 'dist' lên nhánh 'output'
+        uses: crazy-max/ghaction-github-pages@v3.1.0 # Action để đẩy lên GitHub Pages
+        with:
+          target_branch: output # Đẩy lên nhánh 'output'
+          build_dir: dist # Đẩy nội dung của thư mục 'dist'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Sử dụng token mặc định của GitHub
