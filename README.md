@@ -2,8 +2,8 @@
 
 <h2 align="left">💫 About Me</h2>
 
-<div style="width: 100%; display: flex; justify-content: center;">
-  <div style="width: 80%; max-width: 700px;">
+<div style="width: 100%; display: flex; justify-content: flex-end; padding-right: 20px; box-sizing: border-box;">
+  <div style="width: 80%; max-width: 700px; margin-left: auto;">
     <div style="background-color: #0d1117; border-radius: 10px; padding: 25px; margin-bottom: 20px; box-sizing: border-box; text-align: left;">
       <p style="margin-top: 0; color: #c9d1d9; font-size: 16px; line-height: 1.5; margin-left: 15px;">
         - 👧🏻 Passionate about tech, learning, and building helpful products.<br>
@@ -11,17 +11,17 @@
         - 🌸 Studying AI & Automation.<br>
         - 📚 Tutoring & Writing since 2021.
       </p>
-     <br>
+      <br>
     </div>
     <div style="background-color: #0d1117; border-radius: 10px; padding: 15px 25px; margin-bottom: 20px; box-sizing: border-box;">
       <details style="color: #58a6ff; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;">
         <summary style="font-size: 18px; font-weight: bold; cursor: pointer; text-align: left; margin-left: 15px;">&#128240 <b>Latest Blogs Posts</b></summary><br/>
-        </details>
+      </details>
     </div>
     <div style="background-color: #0d1117; border-radius: 10px; padding: 15px 25px; margin-bottom: 20px; box-sizing: border-box;">
       <details style="color: #58a6ff; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;">
         <summary style="font-size: 18px; font-weight: bold; cursor: pointer; text-align: left; margin-left: 15px;">&#128187 <b>GitHub Activities</b></summary><br/>
-        </details>
+      </details>
     </div>
     <div style="background-color: #0d1117; border-radius: 10px; padding: 25px; box-sizing: border-box;">
       <details style="color: #58a6ff; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;">
