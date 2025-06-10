@@ -27,11 +27,11 @@
       <details style="color: #58a6ff; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;">
         <summary style="font-size: 18px; font-weight: bold; cursor: pointer; text-align: left; margin-left: 15px;">&#9889 <b>GitHub Stats</b></summary><br/>
         <div align="center">
-          <img src="https://github-profile-trophy.vercel.app?username=cmduyen&theme=darkhub&no-bg=false&no-frame=true" height="130" alt="trophy graph" />
+          <img src="https://github-profile-trophy.vercel.app?username=justduyen&theme=darkhub&no-bg=false&no-frame=true" height="130" alt="trophy graph" />
         </div>
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=cmduyen&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true" height="130" alt="stats graph" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cmduyen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="130" alt="languages graph" />
+          <img src="https://github-readme-stats.vercel.app/api?username=justduyen&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true" height="130" alt="stats graph" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justduyen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="130" alt="languages graph" />
         </div>
       </details>
     </div>
@@ -104,28 +104,6 @@
     <img alt="github-snake" src="https://github.com/cmduyen/justduyen/blob/output/github-snake.svg" />
   </picture>
 </div>
-
-## 🎧 Spotify Playing
-<p align="center">
-  <a href="https://open.spotify.com/playlist/0eufhXK7WPSiiwPcaz3Jq7?si=839465c918394657" target="_blank">
-    <img src="https://img.shields.io/badge/Christian%20Pop%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Christian Pop Music">
-  </a>
-  <a href="https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ" target="_blank">
-    <img src="https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Programming Music">
-  </a>
-  <a href="https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q" target="_blank">
-    <img src="https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="KPOP Music">
-  </a>
-  <a href="https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ" target="_blank">
-    <img src="https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="PPOP Music">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l" target="_blank">
-    <img src="https://open.spotify.com/playlist/5YegG7hKbMoLgOC6cW7eS1?si=uwwFjgGASnmUdRkqmodGbQ" alt="Spotify Listening">
-  </a>
-</p>
 
 <h2 align="left">📫 Connect with Me</h2>
 
