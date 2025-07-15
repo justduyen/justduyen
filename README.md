@@ -114,9 +114,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/justduyen/count.svg?"  />
-</div>
-
-###
-
