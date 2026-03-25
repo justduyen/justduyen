@@ -12,20 +12,31 @@
 
 ### 💫 A little bit about me
 
-- 👧🏻 I have a soft spot for Math and CS. I love using code to build fun stuff (whether I'm free or not).
+- 👧🏻 **Math & CS lover**, building fun stuff with code.
 
-- ✨ I'm currently writing the **JustDuyen Blog** to share the little things I've learned along the way.
+- ✨ Sharing my tech journey on **JustDuyen Blog**.
 
-- 🌸 What I find most exciting about tech is **AI & Automation**—mostly so I can "cheat" my way out of repetitive tasks and have more time to chill.
+- 🌸 Using **AI & Automation** to skip boring tasks & chill more.
 
-- 📚 **Tutor & Writer**: I've been teaching and typing away since 2021, though I've dabbled in various other jobs before that.
+- 📚 **Tutor & Writer** since 2021.
 
 ---
 
 ### 💻 My Go-To Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,android,vscode,figma,github,git&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-88C0D0?style=for-the-badge&logo=python&logoColor=2E3440" />
+  <img src="https://img.shields.io/badge/JavaScript-EBCB8B?style=for-the-badge&logo=javascript&logoColor=2E3440" />
+  <img src="https://img.shields.io/badge/HTML5-BF616A?style=for-the-badge&logo=html5&logoColor=ECEFF4" />
+  <img src="https://img.shields.io/badge/CSS3-81A1C1?style=for-the-badge&logo=css3&logoColor=2E3440" />
+  <br>
+  <img src="https://img.shields.io/badge/React-5E81AC?style=for-the-badge&logo=react&logoColor=ECEFF4" />
+  <img src="https://img.shields.io/badge/Android-A3BE8C?style=for-the-badge&logo=android&logoColor=2E3440" />
+  <img src="https://img.shields.io/badge/VS_Code-88C0D0?style=for-the-badge&logo=visual%20studio%20code&logoColor=2E3440" />
+  <img src="https://img.shields.io/badge/Figma-B48EAD?style=for-the-badge&logo=figma&logoColor=2E3440" />
+  <br>
+  <img src="https://img.shields.io/badge/GitHub-4C566A?style=for-the-badge&logo=github&logoColor=ECEFF4" />
+  <img src="https://img.shields.io/badge/Git-D08770?style=for-the-badge&logo=git&logoColor=2E3440" />
 </p>
 
 ---
