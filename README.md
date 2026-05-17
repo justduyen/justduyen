@@ -1,3 +1,8 @@
+<!-- SEO Metadata -->
+<meta name="description" content="Welcome to Duyen's personal space! Sowing code seeds in Math, Computer Science, AI, and Automation with a sweet pink aesthetic.">
+<meta name="keywords" content="justduyen, just duyen, Duyen, math, computer science, automation, ai, kawaii portfolio, github profile readme, pink theme portfolio">
+<meta name="author" content="justduyen">
+
 <div align="right">
   <a href="README_VI.md" title="Đọc bằng Tiếng Việt">
     <img src="https://img.shields.io/badge/Tiếng_Việt-ffc5d9?style=flat-square&logo=google-translate&logoColor=4a3e47" alt="Vietnamese"/>

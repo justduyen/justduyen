@@ -1,3 +1,8 @@
+<!-- SEO Metadata -->
+<meta name="description" content="Chào mừng đến với không gian nhỏ của Duyên! Nơi chia sẻ hành trình học tập, nghiên cứu Toán Tin, Trí tuệ nhân tạo, Tự động hóa với sắc hồng Pinkie ngọt ngào.">
+<meta name="keywords" content="justduyen, just duyen, Duyên, toán tin, trí tuệ nhân tạo, tự động hóa, kawaii portfolio, github profile readme, pink theme portfolio, blog của duyên">
+<meta name="author" content="justduyen">
+
 <div align="right">
   <a href="README.md" title="Read in English">
     <img src="https://img.shields.io/badge/English-ffc5d9?style=flat-square&logo=google-translate&logoColor=4a3e47" alt="English"/>
