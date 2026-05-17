@@ -1,26 +1,27 @@
-  <a href="README_EN.md" title="Read in English">
-    <img src="https://img.shields.io/badge/English-ffc5d9?style=flat-square&logo=google-translate&logoColor=4a3e47" alt="English"/>
+<div align="right">
+  <a href="README_VI.md" title="Đọc bằng Tiếng Việt">
+    <img src="https://img.shields.io/badge/Tiếng_Việt-ffc5d9?style=flat-square&logo=google-translate&logoColor=4a3e47" alt="Vietnamese"/>
   </a>
-
+</div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=32&duration=3500&pause=1000&color=d44b8b&center=true&vCenter=true&width=500&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Duy%C3%AAn%F0%9F%8C%BF;M%C3%AA+To%C3%A1n%2C+Y%C3%AAu+Tin+%F0%9F%8C%B8;T%E1%BB%B1+%C4%91%E1%BB%99ng+h%C3%B3a+%26+Chill+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=32&duration=3500&pause=1000&color=d44b8b&center=true&vCenter=true&width=500&lines=Hello+World%2C+I'm+Duyen%F0%9F%8C%BF;Math+%26+CS+Enthusiast+%F0%9F%8C%B8;Automation+%26+Nature+Lover+%E2%98%95" alt="Typing SVG" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=justduyen&label=GARDEN+VIEWS&color=ffb6c1&style=flat-square" alt="Profile Views" />
 </div>
 
-### 🌸 Một chút về Duyên ~ ♡
+### 🌸 A little bit about Duyen ~ ♡
 
-- 🌱 Yêu **Toán & Tin**, đam mê gieo những mầm code màu hồng thật xinh ~ ✨
+- 🌱 **Math & CS lover**, planting cute pink seeds of code to grow fun things ~ ✨
 
-- 🌸 Viết blog **JustDuyen** để chia sẻ những điều ngọt ngào nhỏ bé.
+- 🌸 Sharing my sweet tech journey on **JustDuyen Blog**.
 
-- 🍃 Dùng **AI & Tự động hóa** để tối giản việc, tối đa giờ chill & thưởng trà mơ mộng ~ ☕
+- 🍃 Using **AI & Automation** to simplify tasks & dream more ~ ☕
 
-- 📚 **Gia sư & Writer** - Gieo mầm tri thức từ năm 2021.
+- 📚 **Tutor & Writer** - Sowing lovely words since 2021.
 
 ---
 
-### 💻 Những món Duyên hay dùng ~ ✨
+### 💻 My Sweet Tech Stack ~ ✨
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ffc5d9?style=for-the-badge&logo=python&logoColor=4a3e47" />
@@ -60,7 +61,7 @@
 
 ---
 
-### 📫 Nhắn gửi yêu thương cho Duyên nhé! ~ 🌸
+### 📫 Let's keep in touch! ~ 🌸
 
 <p align="center">
 <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-ffc5d9?style=for-the-badge&logo=gmail&logoColor=4a3e47" /></a>
@@ -69,5 +70,5 @@
 </p>
 
 <p align="center">
-  🌟 <i style="color: #d44b8b;">Cảm ơn người lạ ơi đã ghé thăm! Chúc ní một ngày tốt lành nhá!</i> 👋
+  🌟 <i style="color: #d44b8b;">Thanks for dropping by, stranger! Hope you have a fantastic day!</i> 👋
 </p>
