@@ -1,8 +1,7 @@
 <!-- SEO Metadata -->
-<meta name="description" content="Chào mừng đến với không gian nhỏ của Duyên! Nơi chia sẻ các dự án code tự học, automation và AI dễ thương.">
-<meta name="keywords" content="justduyen, Duyen, tu hoc code, code tu dong hoa, lap trinh ai, github profile readme tieng viet">
+<meta name="description" content="Chào mừng bạn ghé thăm! Nơi mình ghi lại hành trình tự học lập trình, các thử nghiệm tự động hóa và những không gian số nhẹ nhàng.">
+<meta name="keywords" content="justduyen, Duyen, tu hoc code, lap trinh, tu dong hoa, ai, github profile readme tieng viet, pink theme, giao dien toi gian">
 <meta name="author" content="justduyen">
-
 <p align="right">
   <a href="./README.md" style="color: #d44b8b; text-decoration: none;">🎀 English</a> | <strong>🩷 Tiếng Việt</strong>
 </p>
