@@ -1,6 +1,6 @@
 <!-- SEO Metadata -->
-<meta name="description" content="Welcome to Duyen's personal space! Sowing cute code seeds with a sweet pink aesthetic.">
-<meta name="keywords" content="justduyen, Duyen, computer science, automation, ai, github profile readme, pink theme portfolio">
+<meta name="description" content="Welcome to my space! Just a tech explorer sharing my self-taught coding journey, automation experiments, and cozy digital creations.">
+<meta name="keywords" content="justduyen, Duyen, computer science, self-taught coder, automation, ai, github profile readme, pink theme portfolio, cozy coding">
 <meta name="author" content="justduyen">
 
 <p align="right">
